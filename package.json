@@ -1,0 +1,23 @@
+{
+  "name": "digitaltest",
+  "version": "1.0.0",
+  "description": "Curso da Digital Innovation One Desafio prático: TDD com JavaScript utilizando Nodejs, Mocha e Should",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rodrigo-Miyazaki/digitalTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rodrigo-Miyazaki/digitalTest/issues"
+  },
+  "homepage": "https://github.com/Rodrigo-Miyazaki/digitalTest#readme",
+  "devDependencies": {
+    "mocha": "^8.0.1",
+    "should": "^13.2.3"
+  }
+}
