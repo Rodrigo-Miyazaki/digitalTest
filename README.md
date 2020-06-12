@@ -7,8 +7,8 @@ Installation dependencies:
 - Mocha
 - Should
 
-###Installing dependencies
+### Installing dependencies
 Run npm install to install dependencies.
 
-###Running unit tests
+### Running unit tests
 Run npm test to execute the unit tests.
